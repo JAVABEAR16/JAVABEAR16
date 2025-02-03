@@ -1,6 +1,6 @@
 ## Hello Everyone!
 
-👾 Actually, I'm Studying in a Cyber Security Technical course
+👾 Actually, I'm Studying in a Cyber Security Technical Course
 
 🌱 Portuguese/English Speaker
 
