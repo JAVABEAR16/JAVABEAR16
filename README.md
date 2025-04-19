@@ -4,10 +4,11 @@
 
 🌱 Portuguese/English Speaker
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAVABEAR16&show_icons=true&theme=tokyonight&include_all_commits=true&count)](https://github.com/JAVABEAR16/github-readme-stats&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAVABEAR16&theme=tokyonight&langs_count=16)](https://github.com/JAVABEAR16/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAVABEAR16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAVABEAR16&theme=tokyonight&langs_count=16" height="180" />
 <img src="https://github.com/user-attachments/assets/b4c0018f-5920-48c8-80c4-260425d95e1d" alt="Kokushibou.gif" width="76%" />
-
+</p>
 
 
 # 🛠️ Tools & Technologies
