@@ -4,9 +4,9 @@
 
 🌱 Portuguese/English Speaker
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAVABEAR16&show_icons=true&theme=tokyonight)](https://github.com/JAVABEAR16/github-readme-stats&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAVABEAR16&theme=tokyonight)](https://github.com/JAVABEAR16/github-readme-stats)
-<img src="https://github.com/user-attachments/assets/b4c0018f-5920-48c8-80c4-260425d95e1d" alt="Untitled_Project_V3" width="76%" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAVABEAR16&show_icons=true&theme=tokyonight&include_all_commits=true&count)](https://github.com/JAVABEAR16/github-readme-stats&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAVABEAR16&theme=tokyonight&langs_count=16)](https://github.com/JAVABEAR16/github-readme-stats)
+<img src="https://github.com/user-attachments/assets/b4c0018f-5920-48c8-80c4-260425d95e1d" alt="Kokushibou.gif" width="76%" />
 
 
 
